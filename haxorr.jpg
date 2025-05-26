@@ -1,4 +1,3 @@
-
 <?php
 $GLOBALS['Rimuru'] = array(
     'username' => 'mururu',
